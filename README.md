@@ -1,6 +1,6 @@
 # Example workspace for building python extensions with Rust's PyO3 package
 
-This repository shows how to compile and run `word_count` example from PyO3 with Bazel.
+This repository shows how to compile and run the `word_count` example from PyO3 with Bazel.
 
 ## Compiling PyO3 with correct Python configuration
 
