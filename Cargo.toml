@@ -1,0 +1,12 @@
+[package]
+edition = "2021"
+name = "word-count"
+version = "0.1.0"
+
+[lib]
+crate-type = ["cdylib"]
+name = "word_count"
+
+[dependencies]
+pyo3 = {version = "0.19.2", features = ["extension-module"]}
+rayon = "1"
