@@ -1,5 +1,7 @@
 # Example workspace for building python extensions with Rust's PyO3 package
 
+**Update 2024-09-03: There is now a bazel rule <https://github.com/abrisco/rules_pyo3/tree/main>**
+
 This repository shows how to compile and run the `word_count` example from PyO3 with Bazel.
 
 ## Compiling PyO3 with correct Python configuration
